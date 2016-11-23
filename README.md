@@ -45,3 +45,8 @@ Future (Notes also taken from users feedback):
 * Jumbotron background image is just horrible && feels so default
 * [...]
 
+Random notes
+---------------
+
+Thanks to https://github.com/spf13/hugo/issues/330#issuecomment-154045252 we
+maintain the landing page's content in Markdown files now as well!

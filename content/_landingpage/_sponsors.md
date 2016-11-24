@@ -2,7 +2,7 @@
 title = "sponsorship"
 type = "index"
 date = "2016-11-23"
-weight = 70
+weight = 60
 +++
 
 # You are free to use, modify and redistribute it! Spread the word!

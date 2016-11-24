@@ -5,8 +5,9 @@
         {{ partial "header.includes.html" . }}
     </head>
     <body>
-{{ partial "navbar.html" . }}
-{{ partial "headline.html" . }}
+        <header>
+            {{ partial "navbar.html" . }}
+        </header>
 
         <main>
             {{ range .Data.Pages }}
@@ -20,8 +21,14 @@
             {{ end }}
         </main>
 
-    {{ partial "footer.copyright.html" . }}
-    {{ partial "footer.includes.html" . }}
+        <footer>
+            {{ range .Data.Pages }}
+                {{ if eq .Type "footer" }}
+                    <section>{{ .Content }}</section>
+                {{ end }}
+            {{ end }}
+            {{ partial "footer.includes.html" . }}
+        </footer>
     </body>
 </html>
 

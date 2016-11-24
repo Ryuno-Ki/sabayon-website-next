@@ -3,7 +3,7 @@ title = "documentation"
 type = "index"
 date = "2016-11-23"
 background = "/img/documentation.jpg"
-weight = 60
+weight = 50
 +++
 
 # Read the documentation.

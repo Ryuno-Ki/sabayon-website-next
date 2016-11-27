@@ -1,8 +1,6 @@
 +++
 title = "Server edition"
 description = "Sabayon on servers"
-type = "custom"
-layout = "server"
 date = "2015-11-04"
 +++
 

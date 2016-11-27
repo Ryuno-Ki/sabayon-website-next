@@ -1,8 +1,6 @@
 +++
 title = "Press artworks"
 description = "Press artworks files"
-type = "custom"
-layout = "press"
 date = "2015-09-29"
 +++
 

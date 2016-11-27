@@ -1,4 +1,4 @@
 +++
-type = "custom"
-layout = "blog"
+title = "Blog"
+type = "blog"
 +++

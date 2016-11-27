@@ -1,4 +1,4 @@
 +++
-type = "custom"
-layout = "releases"
+title = "Releases"
+type = "releases"
 +++

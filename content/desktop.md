@@ -1,8 +1,6 @@
 +++
 title = "Desktop edition"
 description = "Sabayon workstation"
-type = "custom"
-layout = "desktop"
 date = "2015-11-04"
 +++
 
@@ -56,6 +54,6 @@ date = "2015-11-04"
     * [MD5](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_amd64_Minimal.iso.md5)
     * [Package list](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_amd64_Minimal.iso.pkglist)
 
-<hr>
+<hr />
 
 #### Have you considered donating yet? Help us! [Donate](/donate) today!

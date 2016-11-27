@@ -12,6 +12,8 @@ weight = 10
 
 [Latest Press Release](/latest)
 
+[![Click here to lend your support to: Support Sabayon in 2016 and make a donation at pledgie.com!"](https://pledgie.com/campaigns/31652.png?skin_name=chrome)](https://pledgie.com/campaigns/31652)
+
 Sabayon is a beginner-friendly Gentoo-based Open Source Linux distribution.
 We aim to deliver the best "out of the box" user experience by providing
 the latest open source technologies in an elegant format.

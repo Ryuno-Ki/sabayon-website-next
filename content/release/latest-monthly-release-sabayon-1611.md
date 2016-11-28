@@ -36,13 +36,13 @@ to provide you with a stable, solid and bleeding edge release!
 
 There are a lot of exciting changes in this release, here's a few:
 
-* New Anaconda Installer version, with tons of bugfixes
-* Latest kernel 4.8
-* Latest KDE-Plasma version
-* Renewed artwork
-* New Greeter!
-* Improvements and fixes to Entropy (the package manager)
-* New supported ARM devices!
+1. New Anaconda Installer version, with tons of bugfixes
+1. Latest kernel 4.8
+1. Latest KDE-Plasma version
+1. Renewed artwork
+1. New Greeter!
+1. Improvements and fixes to Entropy (the package manager)
+1. New supported ARM devices!
 
 We've added support for Odroid X2/U2/U3/C2 ARM devices, and thanks to geaaru,
 we added BananaPi to the list too.
@@ -50,13 +50,13 @@ Daily builds can be found on our mirrors, under the "testing" folder.
 
 Sabayon developers have decided to switch to a different release schedule:
 
-* Stable releases will be available (if there are no stoppers)
-  at the end of January, May and October.
-  They are still found under the "monthly/" directory in the mirrors,
-  but from now you will find tagged stable releases under "stable/".
-* Daily images can always be found under the "daily" folder and
-  these are incremental updates
-  (though we can't guarantee these will always be in a working state).
+1. Stable releases will be available (if there are no stoppers)
+   at the end of January, May and October.
+   They are still found under the "monthly/" directory in the mirrors,
+   but from now you will find tagged stable releases under "stable/".
+1. Daily images can always be found under the "daily" folder and
+   these are incremental updates
+   (though we can't guarantee these will always be in a working state).
 
 # New Website
 
@@ -76,12 +76,12 @@ and the Sabayon building Infrastructure.
 
 # Thanks to
 
-* the development team did a great job
-  (extra thanks to mudler, optiz0r, Enlik, joost_op, lxnay, dgikiller, wolfden)
-* geaaru (BananaPi support)
-* Tom Ruis (Boot graphics)
-* Ryuno-Ki (Front-end developing)
-* Alessandro Esciana (Wallpaper graphics)
+1. the development team did a great job
+   (extra thanks to mudler, optiz0r, Enlik, joost_op, lxnay, dgikiller, wolfden)
+1. geaaru (BananaPi support)
+1. Tom Ruis (Boot graphics)
+1. Ryuno-Ki (Front-end developing)
+1. Alessandro Esciana (Wallpaper graphics)
 
 Thanks to everyone who was involved in this release!
 
@@ -193,20 +193,20 @@ More information is also available
 Here are some packages already available in the SCR community repository
 (just to name a few):
 
-* app-editors/sublime-text
-* app-emulation/genymotion
-* app-emulation/shashlik-bin
-* app-misc/neofetch
-* app-text/cherrytree
-* net-im/telegram-bin
-* x11-misc/mugshot
-* x11-terms/altyo
-* games-arcade/fretsonfire
-* media-sound/guitarix2
-* dev-embedded/arduino
-* app-emulation/RemoteBox
-* app-crypt/veracrypt
-* ... and many others! 
+1. app-editors/sublime-text
+1. app-emulation/genymotion
+1. app-emulation/shashlik-bin
+1. app-misc/neofetch
+1. app-text/cherrytree
+1. net-im/telegram-bin
+1. x11-misc/mugshot
+1. x11-terms/altyo
+1. games-arcade/fretsonfire
+1. media-sound/guitarix2
+1. dev-embedded/arduino
+1. app-emulation/RemoteBox
+1. app-crypt/veracrypt
+1. ... and many others! 
 
 If you care about security (you should), you will welcome the addition of
 [VeraCrypt](https://veracrypt.codeplex.com/).
@@ -225,31 +225,31 @@ if you want it to get done faster.
 
 # Download Links
 
-* [Sabayon Mirrors Page](/mirrors)
-* [Sabayon Docker Hub](https://hub.docker.com/r/sabayon)
-* [Sabayon on Atlas (VagrantCloud)](https://atlas.hashicorp.com/Sabayon/boxes/spinbase-amd64)
-* [Sabayon Monthly Images Download Page](http://dl.sabayon.org/iso/monthly/monthly.html)
-* [Sabayon BitTorrent Tracker](http://torrents.sabayon.org/)
-* [Join us on Facebook](https://www.facebook.com/groups/36125411841)
-* [Join us on Google+](https://plus.google.com/+sabayon)
-* [Donate to Sabayon!](http://www.sabayon.org/donate)
+1. [Sabayon Mirrors Page](/mirrors)
+1. [Sabayon Docker Hub](https://hub.docker.com/r/sabayon)
+1. [Sabayon on Atlas (VagrantCloud)](https://atlas.hashicorp.com/Sabayon/boxes/spinbase-amd64)
+1. [Sabayon Monthly Images Download Page](http://dl.sabayon.org/iso/monthly/monthly.html)
+1. [Sabayon BitTorrent Tracker](http://torrents.sabayon.org/)
+1. [Join us on Facebook](https://www.facebook.com/groups/36125411841)
+1. [Join us on Google+](https://plus.google.com/+sabayon)
+1. [Donate to Sabayon!](http://www.sabayon.org/donate)
 
 Please find the official file names and hashes below.
 
 # Files - download directly
 
-* [Sabayon GNOME (64 bit)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_amd64_GNOME.iso)
-* [Sabayon KDE (64 bit)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_amd64_KDE.iso)
-* [Sabayon Xfce (64 bit)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_amd64_Xfce.iso)
-* [Sabayon MATE (64 bit)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_amd64_MATE.iso)
-* [Sabayon Minimal (64 bit)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_amd64_Minimal.iso)
-* [Sabayon Server (64 bit)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_amd64_Server.iso)
-* [Sabayon RPi2/3 Base (console) (armhfp)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_armv7l_RPi_Base_8GB.img.xz)
-* [Sabayon RPi2/3 Base (console) with OpenRC (armhfp)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_armv7l_RPi_OpenRC_8GB.img.xz)
-* [Sabayon RPi2/3 Kodi (Media Center mode + auto-upgrades) (armhfp)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_armv7l_RPi_MediaCenter_8GB.img.xz)
-* [Sabayon Odroid X2/X2+ U2/U3 (armhfp)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_armv7l_Odroid_X2_U2_8GB.img.xz)
-* [Sabayon Odroid C2 (armhfp)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_armv7l_Odroid_C2_8GB.img.xz)
-* [Sabayon BananaPi (armhfp)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_armv7l_BananaPi_8GB.img.xz)
+1. [Sabayon GNOME (64 bit)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_amd64_GNOME.iso)
+1. [Sabayon KDE (64 bit)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_amd64_KDE.iso)
+1. [Sabayon Xfce (64 bit)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_amd64_Xfce.iso)
+1. [Sabayon MATE (64 bit)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_amd64_MATE.iso)
+1. [Sabayon Minimal (64 bit)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_amd64_Minimal.iso)
+1. [Sabayon Server (64 bit)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_amd64_Server.iso)
+1. [Sabayon RPi2/3 Base (console) (armhfp)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_armv7l_RPi_Base_8GB.img.xz)
+1. [Sabayon RPi2/3 Base (console) with OpenRC (armhfp)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_armv7l_RPi_OpenRC_8GB.img.xz)
+1. [Sabayon RPi2/3 Kodi (Media Center mode + auto-upgrades) (armhfp)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_armv7l_RPi_MediaCenter_8GB.img.xz)
+1. [Sabayon Odroid X2/X2+ U2/U3 (armhfp)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_armv7l_Odroid_X2_U2_8GB.img.xz)
+1. [Sabayon Odroid C2 (armhfp)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_armv7l_Odroid_C2_8GB.img.xz)
+1. [Sabayon BananaPi (armhfp)](http://dl.sabayon.org/stable/Sabayon_Linux_16.11_armv7l_BananaPi_8GB.img.xz)
 
 
 #### Have you considered donating yet? Help us! [Donate](/donate) today!

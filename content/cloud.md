@@ -16,6 +16,6 @@ date = "2015-11-04"
 
     `vagrant init Sabayon/spinbase-amd64 && vagrant up`
 
-<hr />
+---
 
 #### Have you considered donating yet? Help us! [Donate](/donate) today!

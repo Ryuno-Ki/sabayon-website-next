@@ -22,7 +22,7 @@ date = "2015-09-29"
 
     Run Sabayon in a virtual machine or a container.
 
-<hr />
+---
 
 ### ... someone said bleeding edge images? grab a *-dev* [Daily builds](http://dl.sabayon.org/iso/daily/daily.html)
 

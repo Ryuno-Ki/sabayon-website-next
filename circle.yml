@@ -1,7 +1,7 @@
 machine:
   environment:
     HUGO_VERSION: 0.14
-    HUGO_THEME: https://github.com/Sabayon/sabayon-website-next-theme
+    HUGO_THEME: https://github.com/Ryuno-Ki/sabayon-website-next-theme
 
 dependencies:
   override:
@@ -13,6 +13,6 @@ test:
 
 deployment:
   production:
-    branch: master
+    branch: sabayon-without-bootstrap
     commands:
       - make publish
